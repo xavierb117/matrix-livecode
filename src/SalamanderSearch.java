@@ -39,7 +39,7 @@ public class SalamanderSearch {
      * @param enclosure
      * @return whether the salamander can reach the food
      */
-    public boolean canReach(char[][] enclosure) {
+    public static boolean canReach(char[][] enclosure) {
         return false;
     }
 }
