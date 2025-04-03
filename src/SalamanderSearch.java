@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class SalamanderSearch {
     public static void main(String[] args) {
         char[][] enclosure1 = {
